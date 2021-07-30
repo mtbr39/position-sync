@@ -12,8 +12,14 @@
     <ul>
       <li>
         <a
-          href="./position_sync.html"
-          >babel</a
+          href="./position_sync_app.html"
+          >position sync</a
+        >
+      </li>
+      <li>
+        <a
+          href="./index2.html"
+          >App2</a
         >
       </li>
     </ul>
